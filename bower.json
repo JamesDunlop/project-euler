@@ -1,0 +1,19 @@
+{
+  "name": "project-euler",
+  "version": "0.0.0",
+  "homepage": "https://github.com/JamesDunlop/project-euler",
+  "authors": [
+    "James Dunlop <mail.jdunlop@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "ui-router": "~0.2.15"
+  }
+}
